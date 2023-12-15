@@ -8,6 +8,25 @@ target/
 .classpath
 .project
 .settings/
+/bin
+/.classpath
+/.project
+/.settings
+/target
+*.pydevproject
+
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
 
 
 ### STS ###
