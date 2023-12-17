@@ -11,6 +11,15 @@
   <h1>SNAKE GAME   </h1>
 </div>
 
+## Description:
+An apple randomly appears on the screen and our goal is to move the snake so that it eats the apple. The snake grows in size after eating an apple and our objective is to make the snake as long as possible.
+However, the game ends if the snake crashes into itself.
+
+This project provides a graphical user interface (GUI) for the game using Swing components. It includes features such as snake movement, apple generation, collision detection, and scoring. The player can control the snake's direction using the arrow keys on the keyboard.
+
+## Demo:
+
+![](https://github.com/NemesAlin/SnakeGame/blob/master/SnakeGameAnimation.gif)
 
 ## Controls:
 + control the snake with the arrows keys "**UP**", "**DOWN**", "**LEFT**" and "**RIGHT**"
