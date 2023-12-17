@@ -32,11 +32,24 @@ This project provides a graphical user interface (GUI) for the game using Swing 
 | UP | DOWN | LEFT | RIGHT |
 
 + SPACE - To Restart the game
-
   
 | <code>SPACE</code> 
 | -- | 
 | SPACE | 
 
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/NemesAlin/SnakeGame.git
+   ```
+
+2. Open the project in your Java IDE.
+
+3. Build and run the project.
 
 
+## 💡 Contributing 
+
+Contributions are welcome! If you have any ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
