@@ -17,6 +17,8 @@ However, the game ends if the snake crashes into itself.
 
 This project provides a graphical user interface (GUI) for the game using Swing components. It includes features such as snake movement, apple generation, collision detection, and scoring. The player can control the snake's direction using the arrow keys on the keyboard.
 
+📌CAUTION: The speed is incresing when you eat more apples.
+
 ## Demo:
 
 ![](https://github.com/NemesAlin/SnakeGame/blob/master/SnakeGameAnimation.gif)
